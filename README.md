@@ -6,7 +6,14 @@
 App para demonstar o uso do banco de dados do SQLite
 
 ## Imagens da Aplicação
-![mobile 1](https://github.com/RenanCostaSilva/Animacao/blob/master/imagem1.png)
+![mobile 1](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem1.jpg)
+![mobile 2](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem2.jpg)
+![mobile 3](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem3.jpg)
+![mobile 4](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem4.jpg)
+![mobile 5](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem5.jpg)
+![mobile 6](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem6.jpg)
+![mobile 7](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem7.jpg)
+![mobile 8](https://github.com/RenanCostaSilva/SQLiteRoom/blob/master/imagem8.jpg)
 
 ## SDK
 minSdk: 24 / alvo: 33
